@@ -18,7 +18,7 @@ The original data was subsetted to include just the average of each variable for
 *Subject - integer code for the subject (person doing the activity)
 *Activity - activity performed by the subject.  Values can be WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-####Time domain signal of body acceleration - means and standard deviation in x,y and z directions
+#####Time domain signal of body acceleration - means and standard deviation in x,y and z directions
 * timebodyaccelerometermeanx 
 * timebodyaccelerometermeany 
 * timebodyaccelerometermeanz 
@@ -26,108 +26,108 @@ The original data was subsetted to include just the average of each variable for
 * timebodyaccelerometerstdy  
 * timebodyaccelerometerstdz 
 
-## Time domain signal of gravity acceleration - means and standard deviation in x,y and z directions
-*timegravityaccelerometermeanx
-*timegravityaccelerometermeany 
-*timegravityaccelerometermeanz
-*timegravityaccelerometerstdx
-*timegravityaccelerometerstdy
-*timegravityaccelerometerstdz
+##### Time domain signal of gravity acceleration - means and standard deviation in x,y and z directions
+* timegravityaccelerometermeanx
+* timegravityaccelerometermeany 
+* timegravityaccelerometermeanz
+* timegravityaccelerometerstdx
+* timegravityaccelerometerstdy
+* timegravityaccelerometerstdz
 
 
-## Time domain signal of body jerk acceleration - means and standard deviation in x,y and z directions
-*timebodyaccelerometerjerkmeanx
-*timebodyaccelerometerjerkmeany
-*timebodyaccelerometerjerkmeanz
-*timebodyaccelerometerjerkstdx
-*timebodyaccelerometerjerkstdy
-*timebodyaccelerometerjerkstdz
+##### Time domain signal of body jerk acceleration - means and standard deviation in x,y and z directions
+* timebodyaccelerometerjerkmeanx
+* timebodyaccelerometerjerkmeany
+* timebodyaccelerometerjerkmeanz
+* timebodyaccelerometerjerkstdx
+* timebodyaccelerometerjerkstdy
+* timebodyaccelerometerjerkstdz
 
 
-## Time domain signal of gyroscope - means and standard deviation in x,y and z directions
-*timebodygyroscopemeanx
-*timebodygyroscopemeany
-*timebodygyroscopemeanz
-*timebodygyroscopestdx
-*timebodygyroscopestdy
-*timebodygyroscopestdz
+##### Time domain signal of gyroscope - means and standard deviation in x,y and z directions
+* timebodygyroscopemeanx
+* timebodygyroscopemeany
+* timebodygyroscopemeanz
+* timebodygyroscopestdx
+* timebodygyroscopestdy
+* timebodygyroscopestdz
 
-## Time domain signal of gyroscope jerk - means and standard deviation in x,y and z directions
-*timebodygyroscopejerkmeanx
-*timebodygyroscopejerkmeany
-*timebodygyroscopejerkmeanz
-*timebodygyroscopejerkstdx
-*timebodygyroscopejerkstdy
-*timebodygyroscopejerkstdz
+##### Time domain signal of gyroscope jerk - means and standard deviation in x,y and z directions
+* timebodygyroscopejerkmeanx
+* timebodygyroscopejerkmeany
+* timebodygyroscopejerkmeanz
+* timebodygyroscopejerkstdx
+* timebodygyroscopejerkstdy
+* timebodygyroscopejerkstdz
 
-## Time domain signal of body acceleration magnitude - means and standard deviation
-*timebodyaccelerometermagnitudemean
-*timebodyaccelerometermagnitudestd
+#####Time domain signal of body acceleration magnitude - means and standard deviation
+* timebodyaccelerometermagnitudemean
+* timebodyaccelerometermagnitudestd
 
-## Time domain signal of gravity acceleration magnitude - means and standard deviation
-*timegravityaccelerometermagnitudemean
-*timegravityaccelerometermagnitudestd
+##### Time domain signal of gravity acceleration magnitude - means and standard deviation
+* timegravityaccelerometermagnitudemean
+* timegravityaccelerometermagnitudestd
 
-## Time domain signal of body acceleration jerk magnitude - means and standard deviation
-*timebodyaccelerometerjerkmagnitudemean
-*timebodyaccelerometerjerkmagnitudestd
+##### Time domain signal of body acceleration jerk magnitude - means and standard deviation
+* timebodyaccelerometerjerkmagnitudemean
+* timebodyaccelerometerjerkmagnitudestd
 
-## Time domain signal of gyroscope magnitude - means and standard deviation
-*timebodygyroscopemagnitudemean
-*timebodygyroscopemagnitudestd
+##### Time domain signal of gyroscope magnitude - means and standard deviation
+* timebodygyroscopemagnitudemean
+* timebodygyroscopemagnitudestd
 
-## Time domain signal of gyroscope jerk magnitude - means and standard deviation
-*timebodygyroscopejerkmagnitudemean
-*timebodygyroscopejerkmagnitudestd
+##### Time domain signal of gyroscope jerk magnitude - means and standard deviation
+* timebodygyroscopejerkmagnitudemean
+* timebodygyroscopejerkmagnitudestd
 
-## Frequency domain signal of body acceleration - means and standard deviation in x,y and z directions
-*frequencybodyaccelerometermeanx
-*frequencybodyaccelerometermeany
-*frequencybodyaccelerometermeanz
-*frequencybodyaccelerometerstdx
-*frequencybodyaccelerometerstdy
-*frequencybodyaccelerometerstdz
+##### Frequency domain signal of body acceleration - means and standard deviation in x,y and z directions
+* frequencybodyaccelerometermeanx
+* frequencybodyaccelerometermeany
+* frequencybodyaccelerometermeanz
+* frequencybodyaccelerometerstdx
+* frequencybodyaccelerometerstdy
+* frequencybodyaccelerometerstdz
 
-## Frequency domain signal of body acceleration jerk - means and standard deviation in x,y and z directions
-*frequencybodyaccelerometerjerkmeanx
-*frequencybodyaccelerometerjerkmeany
-*frequencybodyaccelerometerjerkmeanz
-*frequencybodyaccelerometerjerkstdx
-*frequencybodyaccelerometerjerkstdy
-*frequencybodyaccelerometerjerkstdz
+##### Frequency domain signal of body acceleration jerk - means and standard deviation in x,y and z directions
+* frequencybodyaccelerometerjerkmeanx
+* frequencybodyaccelerometerjerkmeany
+* frequencybodyaccelerometerjerkmeanz
+* frequencybodyaccelerometerjerkstdx
+* frequencybodyaccelerometerjerkstdy
+* frequencybodyaccelerometerjerkstdz
 
-## Frequency domain signal of gyroscope - means and standard deviation in x,y and z directions
-*frequencybodygyroscopemeanx
-*frequencybodygyroscopemeany
-*frequencybodygyroscopemeanz
-*frequencybodygyroscopestdx
-*frequencybodygyroscopestdy
-*frequencybodygyroscopestdz
+##### Frequency domain signal of gyroscope - means and standard deviation in x,y and z directions
+* frequencybodygyroscopemeanx
+* frequencybodygyroscopemeany
+* frequencybodygyroscopemeanz
+* frequencybodygyroscopestdx
+* frequencybodygyroscopestdy
+* frequencybodygyroscopestdz
 
-## Frequency domain signal of body acceleration magnitude - means and standard deviation
-*frequencybodyaccelerometermagnitudemean
-*frequencybodyaccelerometermagnitudestd
+##### Frequency domain signal of body acceleration magnitude - means and standard deviation
+* frequencybodyaccelerometermagnitudemean
+* frequencybodyaccelerometermagnitudestd
 
-## Frequency domain signal of body acceleration jerk magnitude - means and standard deviation
-*frequencybodybodyaccelerometerjerkmagnitudemean
-*frequencybodybodyaccelerometerjerkmagnitudestd
+##### Frequency domain signal of body acceleration jerk magnitude - means and standard deviation
+* frequencybodybodyaccelerometerjerkmagnitudemean
+* frequencybodybodyaccelerometerjerkmagnitudestd
 
-## Frequency domain signal of gyroscope magnitude - means and standard deviation
-*frequencybodybodygyroscopemagnitudemean
-*frequencybodybodygyroscopemagnitudestd
+##### Frequency domain signal of gyroscope magnitude - means and standard deviation
+* frequencybodybodygyroscopemagnitudemean
+* frequencybodybodygyroscopemagnitudestd
 
-## Frequency domain signal of gyroscope jerk magnitude - means and standard deviation
-*frequencybodybodygyroscopejerkmagnitudemean
-*frequencybodybodygyroscopejerkmagnitudestd
+##### Frequency domain signal of gyroscope jerk magnitude - means and standard deviation
+* frequencybodybodygyroscopejerkmagnitudemean
+* frequencybodybodygyroscopejerkmagnitudestd
 
-##Angle between vector means
-*angletimebodyaccelerometermeangravity
-*angletimebodyaccelerometerjerkmeangravitymean
-*angletimebodygyroscopemeangravitymean
-*angletimebodygyroscopejerkmeangravitymean
-*anglexgravitymean
-*angleygravitymean
-*anglezgravitymean
+#####Angle between vector means
+* angletimebodyaccelerometermeangravity
+* angletimebodyaccelerometerjerkmeangravitymean
+* angletimebodygyroscopemeangravitymean
+* angletimebodygyroscopejerkmeangravitymean
+* anglexgravitymean
+* angleygravitymean
+* anglezgravitymean
 
 
 ##Original Data
