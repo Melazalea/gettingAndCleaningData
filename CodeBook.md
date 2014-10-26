@@ -13,7 +13,7 @@ The original data was subsetted to include just the average of each variable for
 
 ##Variables
 
-##Signals in the time domain are prefixed with the word time, wheras signals that have undergone a fast fourier transform (FFT) and are now in the frequency domain are prefixed with the word "frequency".
+####Signals in the time domain are prefixed with the word time, wheras signals that have undergone a fast fourier transform (FFT) and are now in the frequency domain are prefixed with the word "frequency".
 
 *Subject - integer code for the subject (person doing the activity)
 *Activity - activity performed by the subject.  Values can be WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
