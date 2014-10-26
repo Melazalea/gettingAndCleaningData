@@ -20,6 +20,6 @@ The file does the following:
 
 * 7. The data was reshaped using the "melt" and "dcast" functions from the reshape2 library.  The result is a dataframe that contains the average for each variable and subject.
 
-* The final data frame was saved to the working directory as a text file.
+* 8. The final data frame was saved to the working directory as a text file.
 
 
