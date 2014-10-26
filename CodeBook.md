@@ -18,13 +18,13 @@ The original data was subsetted to include just the average of each variable for
 *Subject - integer code for the subject (person doing the activity)
 *Activity - activity performed by the subject.  Values can be WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-## Time domain signal of body acceleration - means and standard deviation in x,y and z directions
-*timebodyaccelerometermeanx 
-*timebodyaccelerometermeany 
-*timebodyaccelerometermeanz 
-*timebodyaccelerometerstdx 
-*timebodyaccelerometerstdy  
-*timebodyaccelerometerstdz 
+####Time domain signal of body acceleration - means and standard deviation in x,y and z directions
+* timebodyaccelerometermeanx 
+* timebodyaccelerometermeany 
+* timebodyaccelerometermeanz 
+* timebodyaccelerometerstdx 
+* timebodyaccelerometerstdy  
+* timebodyaccelerometerstdz 
 
 ## Time domain signal of gravity acceleration - means and standard deviation in x,y and z directions
 *timegravityaccelerometermeanx
